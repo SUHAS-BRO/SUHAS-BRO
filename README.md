@@ -6,7 +6,7 @@
   
 <p align="center">
 
-<img src="https://i.ibb.co/6tCrPD6/image-downloader-1654443961039.gif" alt="nz" width="350"/>
+<img src="https://www.gifcen.com/wp-content/uploads/2022/01/hacker-gif-10.gif" alt="nz" width="350"/>
 
 </p>
 
@@ -84,11 +84,16 @@ me/9477413xxxx)
   
 
 
-
 <br>
 
 [![SUHAS's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/pathsinduu)
 <br>
+<p align="center">
+
+<img src="https://media.tenor.com/eel18OEN2gIAAAAd/hacker-computer.gif" alt="nz" width="350"/>
+
+</p>
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="SUHAS" />
 </p>
